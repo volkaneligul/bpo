@@ -1,0 +1,20 @@
+<svg id="cati_kargo_bedava" data-name="cati kargo bedava" xmlns="http://www.w3.org/2000/svg" width="19" height="16" viewBox="0 0 19 16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #339918;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_8_copy_3" data-name="Ellipse 8 copy 3" class="cls-1" cx="8" cy="8" r="8"/>
+  <path id="Rounded_Rectangle_17" data-name="Rounded Rectangle 17" class="cls-2" d="M18.14,0.829a2.916,2.916,0,0,1,0,4.124L11.954,11.14A2.916,2.916,0,0,1,7.829,7.016l6.187-6.187A2.916,2.916,0,0,1,18.14.829Z"/>
+  <path id="Rounded_Rectangle_18" data-name="Rounded Rectangle 18" class="cls-3" d="M16.62,4.17l-6.45,6.45a2.23,2.23,0,0,1-1.6.829,2.243,2.243,0,0,1-1.393-.764L4.315,7.828A1.067,1.067,0,1,1,5.824,6.319L8.335,8.83c0.008-.008.01-0.019,0.018-0.027l6.45-6.45A1.285,1.285,0,0,1,16.62,4.17Z"/>
+</svg>

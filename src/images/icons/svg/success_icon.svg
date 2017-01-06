@@ -1,0 +1,16 @@
+<svg id="ok_icon" data-name="ok icon" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #76a31f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_5_copy_2" data-name="Ellipse 5 copy 2" class="cls-1" cx="18" cy="18" r="18"/>
+  <path id="Rounded_Rectangle_2_copy_11" data-name="Rounded Rectangle 2 copy 11" class="cls-2" d="M686.445,291.764a1.988,1.988,0,0,0,0-2.71,1.757,1.757,0,0,0-2.576,0l-8.281,8.714-2.489-2.62a1.757,1.757,0,0,0-2.576,0,1.988,1.988,0,0,0,0,2.71l3.867,4.07a1.757,1.757,0,0,0,2.576,0C677.123,301.763,686.445,291.764,686.445,291.764Z" transform="translate(-660 -277)"/>
+</svg>

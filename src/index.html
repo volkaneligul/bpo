@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="https://static.hepsiburada.net/ayagina-gelsin/2488/css/all.css" />
+  <title></title>
+  <script>
+      function measureCRP() {
+        var t = window.performance.timing,
+          interactive = t.domInteractive - t.domLoading,
+          dcl = t.domContentLoadedEventStart - t.domLoading,
+          complete = t.domComplete - t.domLoading;
+        var stats = document.createElement('p');
+        stats.textContent = 'interactive: ' + interactive + 'ms, ' +
+            'dcl: ' + dcl + 'ms, complete: ' + complete + 'ms';
+        document.body.appendChild(stats);
+      }
+        </script>
+</head>
+
+<body onload="measureCRP()">
+  <div id="page" class="page">
+    <div class="container">
+      <div id="content" class="content">
+        <div id="cart-container" class="content-holder group">
+          <div id="app"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
